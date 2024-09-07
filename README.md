@@ -4,7 +4,7 @@ This repository contains all of my assignment solutions for the course Introduct
 
 | __Assignment__ | __Task__                         | __Subtasks__                                                                                                                         |
 | -------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Assignment-1         | Smart Monitoring System                | - SImulating a realistic environment monitoring and prediction using Arduino Uno, DHT temperature sensor, PIR motion sensor, and ultrasonic sensor |
+| Assignment-1         | Smart Monitoring System                | - Simulating a realistic environment monitoring and prediction using Arduino Uno, DHT temperature sensor, PIR motion sensor, and ultrasonic sensor |
 | Assignment-2         |           -         | -  |
 
 ### Created by
