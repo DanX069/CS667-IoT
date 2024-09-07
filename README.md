@@ -4,9 +4,8 @@ This repository contains all of my assignment solutions for the course Introduct
 
 | __Assignment__ | __Task__                         | __Subtasks__                                                                                                                         |
 | -------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Assignment-1         | Smart Monitoring System                | - This assigment required writing the lexers of a made-up Kanpur language and the Fortron-80 language.                                     |
-| Assignment-2         | Syntactic Analysis                     | - This assigment required us to make a parser for the markup-like quiz langauge.<br />- It also included a couple of theoretical questions |
-| Assignment-3         | Semantic Analysis<br />& IR-generation | - This was a theoretical assigment, based around SDT, 3AC IR generation.                                                                   |
+| Assignment-1         | Smart Monitoring System                | - SImulating a realistic environment monitoring and prediction using Arduino Uno, DHT temperature sensor, PIR motion sensor, and ultrasonic sensor |
+| Assignment-2         |           -         | -  |
 
 ### Created by
 
